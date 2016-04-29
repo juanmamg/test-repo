@@ -1,6 +1,6 @@
 test-repo
 =========
 
-testing my girst repo
+testing my first repo
 
-ths is a changemade to creates a branch
+this is a change made to create a branch
